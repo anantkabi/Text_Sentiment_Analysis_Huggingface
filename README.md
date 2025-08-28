@@ -1,3 +1,4 @@
+# Pre-requisites and Features
 * **Libraries used**: `transformers`, `torch`, `matplotlib`, `pandas`, `collections`
 * **Models used**:
 
@@ -29,7 +30,7 @@ A simple yet powerful sentiment analysis project built using **Hugging Face Tran
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/Text-Sentiment-Analysis.git
+git clone https://github.com/anantkabi/Text-Sentiment-Analysis.git
 cd Text-Sentiment-Analysis
 pip install -r requirements.txt
 ```
@@ -81,5 +82,3 @@ README.md                       # Project documentation
 Feel free to fork this project and submit pull requests with improvements.
 
 ---
-
-👉 Do you want me to also **generate a `requirements.txt` file** from your notebook so you can link it in the README?
